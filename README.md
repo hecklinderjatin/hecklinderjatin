@@ -27,8 +27,8 @@
   <tr>
     <td width="60%" valign="top">
       <h3>⚡ About Me</h3>
-      <p>Software engineer and Computer Engineering student at TSEC (Mumbai). I specialize in building robust products end-to-end—from headless e-commerce architectures to AI models and neural networks built entirely from scratch.</p>
-      <p>Most of my learning comes from shipping full-stack projects, managing my Arch Linux environments, and experimenting with new visualization technologies.</p>
+      <p>I'm a Computer Engineering graduate from TSEC blending AI, system architecture, and creative coding. I love building things from the ground up—whether that's programming Q-Learning bots from scratch, architecting headless Next.js storefronts with 3D visuals, or daily-driving Arch Linux.</p>
+      <p>Currently, I'm channeling my projects into <b>Open Brackets</b>, creating visual experiments for complex math and AI concepts. Outside of the terminal, I'm usually out for my daily 6km run, tracking the F1 season, or strategizing over a game of Catan.</p>
     </td>
     <td width="40%" valign="top">
       <h3>🎯 Focus & Interests</h3>
