@@ -1,6 +1,10 @@
 <div align="center">
 
-<!-- Your SVG Banner Here -->
+<div align="center">
+
+<img src="./assets/snake-header.svg" width="100%" />
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=14\&duration=2800\&pause=700\&color=A78BFA\&center=true\&vCenter=true\&random=false\&width=700\&lines=Software+Engineer+from+Mumbai+%F0%9F%87%AE%F0%9F%87%B3;Building+web+apps%2C+games+and+developer+tools;Currently+exploring+AI%2C+Godot+and+cloud+technologies;Build+%E2%86%92+Ship+%E2%86%92+Learn)](https://git.io/typing-svg)
 
