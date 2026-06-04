@@ -37,9 +37,9 @@ I am a Computer Engineering graduate.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jatinsingh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=hecklinderjatin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinsingh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hecklinderjatin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
 
@@ -50,9 +50,9 @@ I am a Computer Engineering graduate.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jatinsingh/jatinsingh/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jatinsingh/jatinsingh/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/jatinsingh/jatinsingh/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hecklinderjatin/hecklinderjatin/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hecklinderjatin/hecklinderjatin/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/hecklinderjatin/hecklinderjatin/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
