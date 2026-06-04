@@ -80,7 +80,7 @@
   <g filter="url(#glow)">
 
     <circle r="10" fill="#6d28d9">
-      <animateMotion dur="7s" repeatCount="indefinite" rotate="auto">
+      <animateMotion dur="7s" repeatCount="indefinite" rotate="auto-reverse">>
         <mpath href="#snakePath"/>
       </animateMotion>
     </circle>
