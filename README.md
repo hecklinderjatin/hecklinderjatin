@@ -33,11 +33,11 @@
     <td width="40%" valign="top">
       <h3>🎯 Focus & Interests</h3>
       <ul>
-        <li>✨ UI/UX & Interactive Design</li>
-        <li>🎨 Creative Coding (Three.js, Pygame)</li>
-        <li>🎬 3D Animation & Motion Graphics</li>
-        <li>⚙️ Frontend Architecture</li>
-        <li>🏎️ Game Development & Board Games</li>
+        <li>✨ UX Interactions & UI Design</li>
+        <li>🎨 Digital Design & 3D Visuals</li>
+        <li>🎮 Gaming</li>
+        <li>📺 Anime</li>
+        <li>🏏 Cricket</li>
       </ul>
     </td>
   </tr>
