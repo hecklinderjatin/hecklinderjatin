@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Jatin%20Singh&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40" width="100%" alt="Header Image"/>
+<!-- Upgraded to a smoother softScale animation for a premium feel -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Jatin%20Singh&fontSize=60&fontColor=fff&animation=softScale&fontAlignY=40" width="100%" alt="Header Image"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=CBA6F7&center=true&vCenter=true&multiline=false&random=false&width=500&height=40&lines=Computer+Engineering+Graduate;AI+%26+Creative+Coding;Headless+E-Commerce)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3500&pause=1000&color=CBA6F7&center=true&vCenter=true&multiline=false&random=false&width=500&height=40&lines=Computer+Engineering+Graduate;AI+%26+Creative+Coding;Headless+E-Commerce)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,25 +16,36 @@
 
 ---
 
-## About Me
+<br/>
 
-I am a Computer Engineering graduate.
+<table width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none;">
+      <h3>⚡ About Me & Skills</h3>
+      I am a Computer Engineering graduate focused on building AI models from scratch and architecting headless e-commerce platforms. 
+      <br/><br/>
+      <!-- Visual icons are faster to read than text bullets -->
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,nextjs,react,ts,godot,postgres,arch,docker,wordpress,supabase,blender,git&theme=dark&perline=6" alt="Tech Stack"/>
+      </a>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <h3>🎯 Interests</h3>
+      <ul>
+        <li>Building AI models and multi-agent simulations</li>
+        <li>Creative coding and math visualisations (Pygame, Three.js)</li>
+        <li>Linux system configuration and containerisation</li>
+        <li>Formula 1, Catan: Cities & Knights, and 6km runs</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-**⚡ Skills:**
-* **Languages & Frameworks:** Python, Next.js, React, TypeScript, GDScript, SQL
-* **AI & Data:** NumPy, Pandas, Audio Feature Extraction (MFCC), Q-Learning
-* **Tools & Infrastructure:** Arch Linux, Docker, PostgreSQL, WordPress, Supabase, Git, Blender
-
-**🎯 Interests:**
-* Building AI models and multi-agent simulations from scratch
-* Architecting headless e-commerce platforms 
-* Creative coding and math visualisations (Pygame, Three.js) 
-* Linux system configuration and containerisation
-* Formula 1, Catan: Cities & Knights, and 6km runs
+<br/>
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
