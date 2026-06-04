@@ -1,0 +1,246 @@
+<svg width="100%" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09090f"/>
+      <stop offset="100%" stop-color="#0f1020"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+
+    <!-- Organic snake path -->
+    <path id="snakePath"
+      d="
+      M 180 130
+      C 240 60, 360 40, 500 70
+      C 650 100, 760 50, 830 120
+      C 890 180, 760 230, 610 200
+      C 450 170, 350 240, 220 190
+      C 120 150, 120 90, 180 130
+      "
+    />
+
+  </defs>
+
+  <!-- Background -->
+
+  <rect width="1000" height="260" fill="url(#bg)" rx="18"/>
+
+  <!-- Grid -->
+
+  <g opacity="0.06">
+    <line x1="0" y1="50" x2="1000" y2="50" stroke="#7c3aed"/>
+    <line x1="0" y1="100" x2="1000" y2="100" stroke="#7c3aed"/>
+    <line x1="0" y1="150" x2="1000" y2="150" stroke="#7c3aed"/>
+    <line x1="0" y1="200" x2="1000" y2="200" stroke="#7c3aed"/>
+
+    <line x1="100" y1="0" x2="100" y2="260" stroke="#22d3ee"/>
+    <line x1="200" y1="0" x2="200" y2="260" stroke="#22d3ee"/>
+    <line x1="300" y1="0" x2="300" y2="260" stroke="#22d3ee"/>
+    <line x1="400" y1="0" x2="400" y2="260" stroke="#22d3ee"/>
+    <line x1="500" y1="0" x2="500" y2="260" stroke="#22d3ee"/>
+    <line x1="600" y1="0" x2="600" y2="260" stroke="#22d3ee"/>
+    <line x1="700" y1="0" x2="700" y2="260" stroke="#22d3ee"/>
+    <line x1="800" y1="0" x2="800" y2="260" stroke="#22d3ee"/>
+    <line x1="900" y1="0" x2="900" y2="260" stroke="#22d3ee"/>
+  </g>
+
+  <!-- Snake body trail -->
+
+  <path
+    d="
+      M 180 130
+      C 240 60, 360 40, 500 70
+      C 650 100, 760 50, 830 120
+      C 890 180, 760 230, 610 200
+      C 450 170, 350 240, 220 190
+      C 120 150, 120 90, 180 130
+    "
+    fill="none"
+    stroke="#7c3aed"
+    stroke-width="16"
+    opacity="0.08"
+    stroke-linecap="round"
+  />
+
+  <!-- Snake body segments -->
+
+  <g filter="url(#glow)">
+
+    <circle r="10" fill="#6d28d9">
+      <animateMotion dur="7s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#snakePath"/>
+      </animateMotion>
+    </circle>
+
+    <circle r="9" fill="#7c3aed" opacity="0.95">
+      <animateMotion dur="7s" begin="-0.15s" repeatCount="indefinite">
+        <mpath href="#snakePath"/>
+      </animateMotion>
+    </circle>
+
+    <circle r="8" fill="#8b5cf6" opacity="0.85">
+      <animateMotion dur="7s" begin="-0.3s" repeatCount="indefinite">
+        <mpath href="#snakePath"/>
+      </animateMotion>
+    </circle>
+
+    <circle r="7" fill="#a78bfa" opacity="0.75">
+      <animateMotion dur="7s" begin="-0.45s" repeatCount="indefinite">
+        <mpath href="#snakePath"/>
+      </animateMotion>
+    </circle>
+
+    <circle r="6" fill="#c4b5fd" opacity="0.65">
+      <animateMotion dur="7s" begin="-0.6s" repeatCount="indefinite">
+        <mpath href="#snakePath"/>
+      </animateMotion>
+    </circle>
+
+    <circle r="5" fill="#ddd6fe" opacity="0.55">
+      <animateMotion dur="7s" begin="-0.75s" repeatCount="indefinite">
+        <mpath href="#snakePath"/>
+      </animateMotion>
+    </circle>
+
+  </g>
+
+  <!-- Snake Head -->
+
+  <g filter="url(#glow)">
+
+    <g>
+
+      <animateMotion
+        dur="7s"
+        repeatCount="indefinite"
+        rotate="auto">
+
+        <mpath href="#snakePath"/>
+
+      </animateMotion>
+
+      <ellipse
+        cx="0"
+        cy="0"
+        rx="15"
+        ry="11"
+        fill="#7c3aed"
+      />
+
+      <!-- Eyes -->
+
+      <circle cx="6" cy="-3" r="2" fill="#22d3ee"/>
+      <circle cx="6" cy="3" r="2" fill="#22d3ee"/>
+
+      <!-- Tongue -->
+
+      <path
+        d="M15 0 L25 -2 M15 0 L25 2"
+        stroke="#ef4444"
+        stroke-width="1.6"
+        stroke-linecap="round">
+
+        <animate
+          attributeName="opacity"
+          values="0;0;0;1;0;0"
+          dur="2.5s"
+          repeatCount="indefinite"/>
+
+      </path>
+
+    </g>
+
+  </g>
+
+  <!-- Center name -->
+
+  <text
+    x="500"
+    y="122"
+    text-anchor="middle"
+    font-family="JetBrains Mono, monospace"
+    font-size="58"
+    font-weight="900"
+    fill="#f5f3ff"
+    filter="url(#glow)"
+    letter-spacing="4">
+
+    JATIN SINGH
+
+    <animate
+      attributeName="opacity"
+      values="1;0.85;1"
+      dur="4s"
+      repeatCount="indefinite"/>
+
+  </text>
+
+  <text
+    x="500"
+    y="155"
+    text-anchor="middle"
+    font-family="JetBrains Mono, monospace"
+    font-size="13"
+    fill="#a78bfa"
+    letter-spacing="6">
+
+    BUILD → SHIP → LEARN
+
+  </text>
+
+  <!-- Floating particles -->
+
+  <g filter="url(#softGlow)">
+
+    <circle cx="120" cy="40" r="2" fill="#22d3ee">
+      <animate attributeName="cy" values="40;25;40" dur="4s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="860" cy="210" r="2" fill="#a78bfa">
+      <animate attributeName="cy" values="210;190;210" dur="6s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="720" cy="60" r="1.5" fill="#22d3ee">
+      <animate attributeName="cy" values="60;45;60" dur="3s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="310" cy="220" r="2" fill="#a78bfa">
+      <animate attributeName="cy" values="220;205;220" dur="5s" repeatCount="indefinite"/>
+    </circle>
+
+  </g>
+
+  <!-- Border -->
+
+  <rect
+    x="2"
+    y="2"
+    width="996"
+    height="256"
+    rx="18"
+    fill="none"
+    stroke="#7c3aed"
+    stroke-width="1">
+
+    <animate
+      attributeName="opacity"
+      values="0.3;0.1;0.3"
+      dur="4s"
+      repeatCount="indefinite"/>
+
+  </rect>
+
+</svg>
