@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Computer+Engineering+Student+at+TSEC+%F0%9F%87%AE%F0%9F%87%B3;Building+AI+models%2C+headless+apps%2C+and+creative+code;Arch+Linux+enthusiast+and+open-source+builder;Build+%E2%86%92+Ship+%E2%86%92+Learn)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Computer+Grad;Eat%2C+Sleep%2C+Build+%E2%86%92+Ship+%E2%86%92+Learn%2C+Repeat;Trying+new+tech;Gaming;Designing)](https://git.io/typing-svg)
 
 <br/>
 
