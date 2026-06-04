@@ -20,7 +20,6 @@
       <feGaussianBlur stdDeviation="2"/>
     </filter>
 
-    <!-- Organic snake path -->
     <path id="snakePath"
       d="
       M 180 130
@@ -34,11 +33,7 @@
 
   </defs>
 
-  <!-- Background -->
-
   <rect width="1000" height="260" fill="url(#bg)" rx="18"/>
-
-  <!-- Grid -->
 
   <g opacity="0.06">
     <line x1="0" y1="50" x2="1000" y2="50" stroke="#7c3aed"/>
@@ -57,8 +52,6 @@
     <line x1="900" y1="0" x2="900" y2="260" stroke="#22d3ee"/>
   </g>
 
-  <!-- Snake body trail -->
-
   <path
     d="
       M 180 130
@@ -75,49 +68,45 @@
     stroke-linecap="round"
   />
 
-  <!-- Snake body segments -->
-
   <g filter="url(#glow)">
 
     <circle r="10" fill="#6d28d9">
-      <animateMotion dur="7s" repeatCount="indefinite" rotate="auto-reverse">>
+      <animateMotion dur="7s" begin="-6.85s" repeatCount="indefinite">
         <mpath href="#snakePath"/>
       </animateMotion>
     </circle>
 
     <circle r="9" fill="#7c3aed" opacity="0.95">
-      <animateMotion dur="7s" begin="-0.15s" repeatCount="indefinite">
+      <animateMotion dur="7s" begin="-6.7s" repeatCount="indefinite">
         <mpath href="#snakePath"/>
       </animateMotion>
     </circle>
 
     <circle r="8" fill="#8b5cf6" opacity="0.85">
-      <animateMotion dur="7s" begin="-0.3s" repeatCount="indefinite">
+      <animateMotion dur="7s" begin="-6.55s" repeatCount="indefinite">
         <mpath href="#snakePath"/>
       </animateMotion>
     </circle>
 
     <circle r="7" fill="#a78bfa" opacity="0.75">
-      <animateMotion dur="7s" begin="-0.45s" repeatCount="indefinite">
+      <animateMotion dur="7s" begin="-6.4s" repeatCount="indefinite">
         <mpath href="#snakePath"/>
       </animateMotion>
     </circle>
 
     <circle r="6" fill="#c4b5fd" opacity="0.65">
-      <animateMotion dur="7s" begin="-0.6s" repeatCount="indefinite">
+      <animateMotion dur="7s" begin="-6.25s" repeatCount="indefinite">
         <mpath href="#snakePath"/>
       </animateMotion>
     </circle>
 
     <circle r="5" fill="#ddd6fe" opacity="0.55">
-      <animateMotion dur="7s" begin="-0.75s" repeatCount="indefinite">
+      <animateMotion dur="7s" begin="-6.1s" repeatCount="indefinite">
         <mpath href="#snakePath"/>
       </animateMotion>
     </circle>
 
   </g>
-
-  <!-- Snake Head -->
 
   <g filter="url(#glow)">
 
@@ -140,12 +129,8 @@
         fill="#7c3aed"
       />
 
-      <!-- Eyes -->
-
       <circle cx="6" cy="-3" r="2" fill="#22d3ee"/>
       <circle cx="6" cy="3" r="2" fill="#22d3ee"/>
-
-      <!-- Tongue -->
 
       <path
         d="M15 0 L25 -2 M15 0 L25 2"
@@ -164,8 +149,6 @@
     </g>
 
   </g>
-
-  <!-- Center name -->
 
   <text
     x="500"
@@ -201,8 +184,6 @@
 
   </text>
 
-  <!-- Floating particles -->
-
   <g filter="url(#softGlow)">
 
     <circle cx="120" cy="40" r="2" fill="#22d3ee">
@@ -222,8 +203,6 @@
     </circle>
 
   </g>
-
-  <!-- Border -->
 
   <rect
     x="2"
