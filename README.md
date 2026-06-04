@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=CBA6F7&center=true&vCenter=true&multiline=false&random=false&width=500&height=40&lines=Computer+Engineering+Undergrad;Building+Open+Brackets;Writing+neural+networks+from+scratch;Arch+Linux+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=CBA6F7&center=true&vCenter=true&multiline=false&random=false&width=500&height=40&lines=Computer+Engineering+Graduate;AI+%26+Creative+Coding;Headless+E-Commerce)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,23 +15,21 @@
 
 ---
 
-## About
+## About Me
 
-I'm a 4th-year Computer Engineering student who prefers understanding how things work under the hood rather than relying on black boxes. My recent technical focus has been on building AI models from scratch using NumPy and Pandas, and architecting headless e-commerce platforms using Next.js and WordPress. 
+I am a Computer Engineering graduate.
 
-I also run a YouTube channel called **Open Brackets**, where I use Pygame and Three.js to create aesthetic visualisations of complex math and AI concepts, like the Chaos Game and Fourier Series. 
+**⚡ Skills:**
+* **Languages & Frameworks:** Python, Next.js, React, TypeScript, GDScript, SQL
+* **AI & Data:** NumPy, Pandas, Audio Feature Extraction (MFCC), Q-Learning
+* **Tools & Infrastructure:** Arch Linux, Docker, PostgreSQL, WordPress, Supabase, Git, Blender
 
-When I'm not dealing with `libalpm` errors on my Arch setup or debugging local environment conflicts, I'm usually out for a daily 6km run, playing Catan: Cities & Knights, or keeping track of the F1 season.
-
----
-
-## Tech Stack
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,docker,python,nextjs,react,wordpress,supabase,postgres,blender,git&theme=dark&perline=11)](https://skillicons.dev)
-
-</div>
+**🎯 Interests:**
+* Building AI models and multi-agent simulations from scratch
+* Architecting headless e-commerce platforms 
+* Creative coding and math visualisations (Pygame, Three.js) 
+* Linux system configuration and containerisation
+* Formula 1, Catan: Cities & Knights, and 6km runs
 
 ---
 
@@ -39,9 +37,23 @@ When I'm not dealing with `libalpm` errors on my Arch setup or debugging local e
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jatinsingh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=GitHub+Stats" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=jatinsingh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinsingh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Top+Languages" alt="Top Languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinsingh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jatinsingh/jatinsingh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jatinsingh/jatinsingh/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/jatinsingh/jatinsingh/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
