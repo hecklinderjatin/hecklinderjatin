@@ -1,10 +1,8 @@
 <div align="center">
 
-<div align="center">
-
 <img src="./assets/snake-header.svg" width="100%" />
 
-</div>
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Computer+Engineering+Student+at+TSEC+%F0%9F%87%AE%F0%9F%87%B3;Building+AI+models%2C+headless+apps%2C+and+creative+code;Arch+Linux+enthusiast+and+open-source+builder;Build+%E2%86%92+Ship+%E2%86%92+Learn)](https://git.io/typing-svg)
 
@@ -23,46 +21,42 @@
 
 </div>
 
----
+<br/>
 
-## About Me
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>⚡ About Me</h3>
+      <p>Software engineer and Computer Engineering student at TSEC (Mumbai). I specialize in building robust products end-to-end—from headless e-commerce architectures to AI models and neural networks built entirely from scratch.</p>
+      <p>Most of my learning comes from shipping full-stack projects, managing my Arch Linux environments, and experimenting with new visualization technologies.</p>
+    </td>
+    <td width="40%" valign="top">
+      <h3>🎯 Focus & Interests</h3>
+      <ul>
+        <li>⚙️ Headless Architecture & API Design</li>
+        <li>🧠 Machine Learning & Neural Networks</li>
+        <li>🎨 Creative Coding (Three.js, Pygame)</li>
+        <li>🐧 Linux System Admin & Docker</li>
+        <li>🏎️ Formula 1 & Strategy Games</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-Software engineer and Computer Engineering student at TSEC (Mumbai). I specialize in building robust products end-to-end—from headless e-commerce architectures to AI models and neural networks built entirely from scratch. 
+<table width="100%">
+  <tr>
+    <td valign="top" align="center">
+      <h3>💻 Tech Stack</h3>
+      <br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,postgres,docker,linux,cpp,godot,blender,git&theme=dark&perline=12" />
+      </a>
+      <br/>
+    </td>
+  </tr>
+</table>
 
-Most of my learning comes from shipping full-stack projects, managing my Arch Linux environments, and experimenting with new visualization technologies.
-
----
-
-## Tech Stack
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,postgres,docker,linux,cpp,godot,blender,git&theme=dark&perline=6" />
-</a>
-
-</div>
-
----
-
-## Currently Building
-
-* 🎵 **SoundRec (MeloMix):** Engineering an audio processing pipeline utilizing deep feature extraction and 105-dimensional "taste vectors" for precise music discovery.
-* 🛍️ **UrbanStudioos:** Building a high-end, headless e-commerce storefront utilizing Next.js, WordPress, and custom 3D particle animations.
-* 🎥 **Open Brackets:** Developing creative coding experiments and visualizing complex math/AI concepts (like the Chaos Game and Fourier Series) using Pygame and Three.js.
-* 🤖 **AI Agents:** Programming multi-agent simulations and Q-Learning bots from scratch using NumPy and Pandas.
-
----
-
-## Interests
-
-* ⚙️ Headless Architecture & API Design
-* 🧠 Machine Learning & Neural Networks
-* 🎨 Creative Coding (Three.js, Pygame)
-* 🐧 Linux System Administration & Docker
-* 🏎️ Formula 1 & Strategy Board Games
-
----
+<br/>
 
 <div align="center">
 
