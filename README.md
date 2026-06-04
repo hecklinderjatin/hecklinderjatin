@@ -1,123 +1,143 @@
-<!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jatin%20Kapadiya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=I%20make%20things.&descSize=18&descAlignY=55&descColor=cdd6f4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Jatin%20Singh&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=I%20make%20things.&descSize=22&descAlignY=65&descColor=cba6f7" width="100%"/>
 
 </div>
 
-<!-- Typing SVG -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=CBA6F7&center=true&vCenter=true&random=false&width=500&lines=CS+grad+%7C+Trainee+SWE+%40+ICICI+Lombard+soon;Building+a+story-driven+Godot+4+RPG;Shipping+side+projects+in+the+gap;anime+OSTs+%3E+everything+else)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=CBA6F7&center=true&vCenter=true&multiline=false&random=false&width=600&height=45&lines=🕹️+Building+a+story-driven+Godot+4+RPG;🎞️+Shipping+Flow+—+an+animation+curve+library;🤖+Learning+LangChain+%2B+FastAPI+%2B+GenAI;🎧+Powered+by+anime+OSTs+%2624%2F7;💥+CS+grad+%7C+Trainee+SWE+%40+ICICI+Lombard)](https://git.io/typing-svg)
 
 </div>
+
+<br/>
 
 ---
 
-<!-- About section -->
+## 👾 &nbsp;About me
 
-```python
-jatin = {
-    "location"  : "Bandra, Mumbai 🇮🇳",
-    "currently" : ["Godot 4 RPG (3D story-driven)", "Flow — animation curve library"],
-    "learning"  : ["LangChain", "FastAPI", "TypeScript"],
-    "stack"     : ["Python", "Django", "React", "GDScript", "PostgreSQL"],
-    "interests" : ["game dev", "music", "video editing", "cosplay builds"],
-    "obsessed"  : "anime OSTs (CSM · OPM · JJK · DS · OP · Naruto)",
-    "fun_fact"  : "I make things that probably shouldn't exist yet"
+```javascript
+const jatin = {
+  name        : "Jatin Singh",
+  location    : "Bandra, Mumbai 🇮🇳",
+  currently   : ["Godot 4 RPG — 3D story-driven", "Flow — animation curve library"],
+  learning    : ["LangChain", "FastAPI", "TypeScript", "GenAI"],
+  stack       : ["Python", "Django", "React", "GDScript", "PostgreSQL"],
+  interests   : ["game dev", "music", "video editing", "cosplay builds"],
+  fuelledBy   : ["☕ chai", "🎧 Chainsaw Man OST", "🎮 CS2", "🌙 late nights"],
+  funFact     : "I make things that probably shouldn't exist yet 🚀"
 }
 ```
 
 ---
 
-<!-- Currently building -->
+## 🚧 &nbsp;Currently building
 
-## 🚧 &nbsp;What I'm building right now
+<div align="center">
 
-| Project | Stack | Status |
-|---------|-------|--------|
-| 🕹️ **Untitled Empire** — Story-driven RPG where an MC rebuilds a liquor empire taken down by a corrupt politician | Godot 4 · GDScript · Blender | 🟡 In dev |
-| 🎞️ **Flow** — Curated animation curve library (CSS, spring, keyframes → CSS / Framer / GSAP export) | React · Tailwind · Framer Motion | 🟡 In dev |
-| 🤖 **GenAI experiments** — Small projects with LangChain + OpenAI API + FastAPI | Python · LangChain · FastAPI | 🟢 Active |
+| 🔥 Project | 🛠️ Stack | 📌 Status |
+|:-----------|:---------|:---------|
+| 🕹️ **Untitled Empire** — 3D RPG, MC rebuilds a liquor empire after a corrupt politician destroys it | `Godot 4` `GDScript` `Blender` | 🟡 In dev |
+| 🎞️ **Flow** — Curated animation curve library, export to CSS / Framer Motion / GSAP / JS | `React` `Tailwind` `Framer Motion` `TS` | 🟡 In dev |
+| 🤖 **GenAI Sandbox** — FastAPI micro-apps with LangChain + OpenAI API | `Python` `LangChain` `FastAPI` | 🟢 Active |
 
----
-
-<!-- Featured projects -->
-
-## 📌 &nbsp;Featured project — SoundRec
-
-> Full-stack music recommendation engine with a ~7,000 song library
-
-- **Backend:** Django · Celery · PostgreSQL · pgvector · Redis
-- **ML:** Black Hole Clustering (BHC) personalization, 105-feature audio analysis, Gemini-based genre labeling per cluster
-- **Pipeline:** Google Colab audio processing · STFT · cosine similarity tuning
-- **Frontend:** React · glassmorphism UI
+</div>
 
 ---
 
-<!-- Skills -->
+## 📌 &nbsp;Featured — SoundRec
+
+<div align="center">
+
+> 🎵 Full-stack music recommendation engine · ~7,000 song library
+
+</div>
+
+- **Backend** → Django · Celery · PostgreSQL · pgvector · Redis
+- **ML** → Black Hole Clustering (BHC) personalization · 105-feature audio analysis · Gemini genre labeling per cluster
+- **Pipeline** → Google Colab · STFT · cosine similarity tuning · atomic writes
+- **Frontend** → React · Apple Music-inspired glassmorphism UI · vinyl turntable component
+
+---
 
 ## 🛠️ &nbsp;Stack & tools
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Godot](https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,ts,react,tailwind,postgres,redis,docker,aws,cpp,godot,blender,git&theme=dark&perline=7)](https://skillicons.dev)
 
 </div>
 
 ---
-
-<!-- GitHub stats -->
 
 ## 📊 &nbsp;GitHub stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jatinkapadiya&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinkapadiya&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=6" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jatinsingh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Jatin's+GitHub+Stats" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinsingh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Top+Languages" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jatinkapadiya&theme=catppuccin-mocha&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=jatinsingh&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
----
-
-<!-- Listening to -->
-
-## 🎧 &nbsp;Currently playing
-
 <div align="center">
 
-*somewhere between a Chainsaw Man OST and a Jujutsu Kaisen battle theme*
-
-`Chainsaw Man` · `One Punch Man` · `Jujutsu Kaisen` · `Demon Slayer` · `One Piece` · `Naruto`
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jatinsingh&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity)
 
 </div>
 
 ---
 
-<!-- Footer -->
+## 🏆 &nbsp;Trophies
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=jatinsingh&theme=tokyonight&no-frame=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 &nbsp;Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jatinsingh/jatinsingh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jatinsingh/jatinsingh/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/jatinsingh/jatinsingh/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🎧 &nbsp;Soundtrack
+
+<div align="center">
+
+*currently somewhere between a Chainsaw Man battle theme and a Naruto OST*
+
+`Chainsaw Man` &nbsp;·&nbsp; `One Punch Man` &nbsp;·&nbsp; `Jujutsu Kaisen` &nbsp;·&nbsp; `Demon Slayer` &nbsp;·&nbsp; `One Piece` &nbsp;·&nbsp; `Naruto`
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=jatinsingh&color=blueviolet&style=flat-square&label=Profile+Views)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jatinsingh)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
 
 </div>
