@@ -48,32 +48,6 @@
 
 ---
 
-## ❯ Core Architecture
-
-### 🎵 SoundRec (MeloMix)
-A high-precision music discovery engine built to move beyond standard collaborative filtering.
-* **Architecture:** Deep audio feature extraction pipeline analyzing metadata and raw audio signals.
-* **Data Processing:** Extracts Mel-frequency cepstral coefficients (MFCCs) and Spectral Contrast to map songs into 105-dimensional "taste vectors".
-* **Integration:** Built robust backend handlers for the Spotify API, strictly enforcing production-ready redirect URIs to ensure secure, non-local authentication flows.
-
-### 🛍️ UrbanStudioos
-A headless, high-end e-commerce storefront designed for a clothing brand.
-* **Frontend:** Next.js integrated with 3D particle-based animations for an immersive brand intro.
-* **Backend:** Decoupled WordPress architecture allowing for a heavily customized UI while maintaining robust content management.
-* **Deployment:** Containerized workflows deployed on Hostinger, prioritizing fast content delivery and seamless 3D rendering.
-
-### 🤖 Multi-Agent AI Simulations
-Custom simulation environments built from scratch to study emergent behavior.
-* **Implementations:** Developed Q-Learning agents and Markov Chain models for a continuous Prisoner's Dilemma environment, alongside an "Among Us" style multi-agent simulation.
-* **Tech Stack:** Heavily reliant on NumPy and Pandas for state-space management.
-* **Visualization:** Built custom Pygame rendering engines, optimizing color mapping (utilizing precise `CYAN` and `GRAY` constants) and strict parameter definitions for bot classes to ensure high-performance frame rates.
-
-### }{ Open Brackets
-A creative coding project and YouTube channel focused on mathematical visualizations.
-* **Content:** Utilizing Pygame and Three.js to build visual proofs and interactive demonstrations of complex theories, including the Chaos Game and Fourier Series.
-
----
-
 ## ❯ Activity & Contributions
 
 <div align="center">
