@@ -27,17 +27,17 @@
   <tr>
     <td width="60%" valign="top">
       <h3>⚡ About Me</h3>
-      <p>I am a Software Engineer and Computer Engineering graduate from TSEC. I specialize in backend architecture, AI simulations, and full-stack development.</p>
-      <p>I enjoy tackling complex technical challenges from scratch, whether that's designing headless e-commerce systems, programming custom machine learning models, or building robust web applications.</p>
+      <p>I am a Software Engineer and Computer Engineering graduate building at the intersection of code and design. I specialize in crafting interactive web experiences, high-end 3D visuals, and seamless user interfaces.</p>
+      <p>My focus is on bridging aesthetics with performance—whether that means developing immersive creative coding experiments, designing visually driven e-commerce platforms, or creating dynamic motion graphics.</p>
     </td>
     <td width="40%" valign="top">
       <h3>🎯 Focus & Interests</h3>
       <ul>
-        <li>⚙️ Headless Architecture & API Design</li>
-        <li>🧠 Machine Learning & Neural Networks</li>
+        <li>✨ UI/UX & Interactive Design</li>
         <li>🎨 Creative Coding (Three.js, Pygame)</li>
-        <li>🐧 Linux System Admin & Docker</li>
-        <li>🏎️ Formula 1 & Strategy Games</li>
+        <li>🎬 3D Animation & Motion Graphics</li>
+        <li>⚙️ Frontend Architecture</li>
+        <li>🏎️ Game Development & Board Games</li>
       </ul>
     </td>
   </tr>
