@@ -49,7 +49,7 @@
       <h3>💻 Tech Stack</h3>
       <br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,postgres,docker,linux,cpp,godot,git,threejs,numpy,pandas,fastapi,supabase,aws,blender,ps,ae,figma&theme=dark&perline=20" />
+        <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,postgres,docker,linux,cpp,godot,git,threejs,numpy,pandas,fastapi,supabase,aws,blender,ps,ae,figma&theme=dark&perline=21" />
       </a>
       <br/>
     </td>
