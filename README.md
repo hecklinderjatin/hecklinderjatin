@@ -27,8 +27,8 @@
   <tr>
     <td width="60%" valign="top">
       <h3>⚡ About Me</h3>
-      <p>I'm a Computer Engineering graduate from TSEC blending AI, system architecture, and creative coding. I love building things from the ground up—whether that's programming Q-Learning bots from scratch, architecting headless Next.js storefronts with 3D visuals, or daily-driving Arch Linux.</p>
-      <p>Currently, I'm channeling my projects into <b>Open Brackets</b>, creating visual experiments for complex math and AI concepts. Outside of the terminal, I'm usually out for my daily 6km run, tracking the F1 season, or strategizing over a game of Catan.</p>
+      <p>I am a Software Engineer and Computer Engineering graduate from TSEC. I specialize in backend architecture, AI simulations, and full-stack development.</p>
+      <p>I enjoy tackling complex technical challenges from scratch, whether that's designing headless e-commerce systems, programming custom machine learning models, or building robust web applications.</p>
     </td>
     <td width="40%" valign="top">
       <h3>🎯 Focus & Interests</h3>
